@@ -1,20 +1,11 @@
 cislo = 3
 slovo = "slovo
-avgfawgfawg"
-andga
-Warningawg
-awgawgawgawga
-Warningaw
-globalwg
-andga
-Warningaw
-getattrwg
+agwag
 awg
-andaw
-getattr
-awaitga
-Warningawg
+andg
+awaitgaw
+getattraw
+getattrwg
 andga
-Warningaw
-getattr
-s
+Warninga
+z
