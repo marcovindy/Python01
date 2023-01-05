@@ -11,3 +11,10 @@ andg
 awaitgaw
 globalag
 Warning
+ag
+awaitga
+Warningawg
+andga
+Warningaw
+getattr
+s
